@@ -1,0 +1,21 @@
+**Employee Record: Lucia Hassan**  
+**Employee ID:** EMP-23826  
+**Company:** Meridian Analytics Ltd.  
+**Department:** IT Security  
+
+**Role:**  
+Lucia Hassan serves as a Senior Security Analyst within the IT Security department. In her role, she is responsible for identifying vulnerabilities within the company’s network, implementing security protocols, and conducting regular security audits. Lucia collaborates closely with other IT teams to ensure all systems are compliant with industry standards and best practices. 
+
+**Tenure:**  
+Lucia has been with Meridian Analytics Ltd. for 3 years, having started her tenure on October 15, 2020. Over this time, she has showcased her commitment and adaptability in a rapidly evolving field.
+
+**Salary Band:**  
+Lucia's current salary band is classified as Band 4, reflecting her extensive experience and the critical nature of her position in safeguarding the company’s digital assets.
+
+**Leave Balance:**  
+As of the last payroll cycle, Lucia has a total leave balance of 15 days. This includes annual leave, sick leave, and personal days. She has utilized her leave responsibly, balancing her work and personal commitments effectively.
+
+**Performance Note:**  
+Lucia’s performance has been outstanding over the past year. She has successfully led several key projects, including the implementation of a new threat detection system that has significantly improved the company’s response time to potential breaches. Her proactive approach to identifying risks and her ability to collaborate with cross-functional teams have been recognized by management. Additionally, she has consistently contributed to knowledge-sharing sessions, mentoring junior staff members to enhance their skills in cybersecurity practices. Her dedication to continuous improvement and professional development makes her a valuable asset to Meridian Analytics Ltd. 
+
+**End of Record**

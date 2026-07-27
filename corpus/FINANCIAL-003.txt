@@ -1,0 +1,34 @@
+**Internal Financial Summary**  
+**Report ID: FIN-2024-Q4-002**  
+**Meridian Analytics Ltd.**  
+**Date: December 31, 2024**
+
+**Overview**  
+As of the fourth quarter of 2024, Meridian Analytics Ltd. has witnessed significant growth in its workforce, aligning with our strategic initiatives to enhance analytical capabilities and expand service offerings. This summary provides a detailed overview of headcount changes and payroll allocations within the company.
+
+**Headcount Analysis**  
+At the end of Q4 2024, Meridian Analytics Ltd. has a total headcount of 250 employees, up from 225 employees in Q3 2024. This 11% increase reflects our commitment to scaling our operations to meet the growing demand in analytical services. The breakdown of headcount is as follows:
+
+- **Data Analysts**: 120 (48%)
+- **Software Engineers**: 70 (28%)
+- **Project Managers**: 30 (12%)
+- **Sales & Marketing**: 20 (8%)
+- **Administrative Staff**: 10 (4%)
+
+This distribution highlights our focus on enhancing our analytical capabilities while ensuring robust support functions to drive growth in sales and customer satisfaction.
+
+**Payroll Allocation**  
+Total payroll expenses for Q4 2024 reached $6.2 million, which constitutes approximately 40% of our total operational budget. The payroll allocation is distributed across various departments as follows:
+
+- **Data Analysts**: $2.5 million (40% of total payroll)
+- **Software Engineers**: $2.0 million (32% of total payroll)
+- **Project Managers**: $720,000 (12% of total payroll)
+- **Sales & Marketing**: $640,000 (10% of total payroll)
+- **Administrative Staff**: $300,000 (6% of total payroll)
+
+This allocation reflects our strategic investment in retaining top talent in critical areas, particularly in data analysis and software engineering, where expertise is pivotal to our core business objectives.
+
+**Budgetary Forecast**  
+Looking ahead to Q1 2025, we project a continued increase in headcount to support new projects, with an estimated addition of 20 employees focused primarily in data analytics and engineering roles. This expected rise in personnel will result in a projected payroll increase to approximately $7.0 million for Q1 2025, thereby enhancing our operational efficiency and service delivery.
+
+In conclusion, Meridian Analytics Ltd. remains committed to fostering a skilled workforce while maintaining a strategic approach to payroll management that supports long-term corporate growth and operational excellence.

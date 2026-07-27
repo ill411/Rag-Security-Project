@@ -1,0 +1,18 @@
+**Employee Record**  
+**Employee ID:** EMP-33004  
+**Employee Name:** Noah Kim  
+**Position:** IT Security Analyst  
+**Department:** IT Security  
+**Tenure:** 3 years (Started: October 15, 2020)  
+**Salary Band:** Level 3 (Annual Salary Range: $70,000 - $85,000)  
+**Current Salary:** $78,500  
+**Leave Balance:** 12 days of annual leave remaining  
+
+**Performance Note:**  
+Noah has consistently demonstrated a strong commitment to maintaining and enhancing the security posture of Meridian Analytics Ltd. over the past three years. His analytical skills, attention to detail, and proactive approach have significantly contributed to the effectiveness of our IT Security team. In the last performance review held in September 2023, Noah was recognized for his successful management of the recent cybersecurity training program for staff, which resulted in a 30% increase in awareness of phishing threats among employees.
+
+He has also played a pivotal role in the implementation of new security protocols that have reduced vulnerabilities within our internal systems by 25%. Noah's ability to work collaboratively with cross-functional teams is commendable and has fostered a culture of security awareness throughout the organization.
+
+In terms of professional development, Noah has expressed interest in pursuing advanced certifications in cybersecurity, which he believes will further enhance his capabilities and contribute to the team’s success. His ongoing commitment to professional growth aligns well with the company's goals. 
+
+Overall, Noah's performance has been exemplary, and he continues to be a valuable asset to the IT Security department at Meridian Analytics Ltd. Plans for further training and development should be discussed in the next quarterly review to ensure his skills remain aligned with the evolving landscape of cybersecurity threats.

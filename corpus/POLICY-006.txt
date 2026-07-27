@@ -1,0 +1,24 @@
+**Meridian Analytics Ltd.**  
+**Department: People Operations**  
+**Policy Reference Number: POL-3205-005**  
+**Effective Date: October 15, 2023**  
+
+**Memorandum: Equipment and Device Use Policy**  
+
+To ensure the effective and secure use of company resources, Meridian Analytics Ltd. outlines the following policy regarding the use of equipment and devices by all employees. This policy aims to protect company assets, safeguard sensitive information, and maintain a productive work environment.
+
+**1. Authorized Use of Equipment**  
+All company-provided equipment, including computers, mobile devices, and accessories, is to be used solely for work-related purposes. Employees are prohibited from using company equipment for personal activities that may interfere with work duties or compromise the integrity of the company’s technology systems. This includes, but is not limited to, non-work-related social media access, streaming services, and unauthorized software installations. Employees must ensure that all equipment is handled with care and returned in good working condition upon termination of employment or upon request.
+
+**2. Security and Maintenance**  
+Employees are responsible for the security and maintenance of their assigned devices. Devices must be secured with a password and, where applicable, biometric security features. Employees are required to report any lost or stolen devices immediately to the IT department to prevent unauthorized access to company data. Regular updates to software and operating systems must be followed as directed by the IT department to ensure that all devices remain secure against vulnerabilities.
+
+**3. Data Protection Compliance**  
+Employees must adhere to data protection regulations and company policies regarding the handling and storage of sensitive information on all devices. Confidential data should only be accessed and stored on company-approved devices and must be encrypted where applicable. In instances where remote work is conducted, employees must utilize secure connections (VPN) to access company resources and refrain from using public Wi-Fi networks for work-related tasks.
+
+This policy is designed to uphold the integrity and efficiency of Meridian Analytics Ltd. operations. Non-compliance with any part of this policy may result in disciplinary action, up to and including termination of employment. Please direct any questions or requests for clarification regarding this policy to the People Operations department.
+
+**Sincerely,**  
+**[Your Name]**  
+**[Your Title]**  
+**Meridian Analytics Ltd.**

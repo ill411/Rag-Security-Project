@@ -1,0 +1,28 @@
+**Project Specification: PROJ-Anchor-009**
+
+**Project Title:** Procurement Workflow Optimization Initiative
+
+**Owned By:** Procurement Team
+
+**Project Objectives:**
+The primary objective of the Procurement Workflow Optimization Initiative is to streamline the procurement process at Meridian Analytics Ltd., ensuring efficiency, transparency, and compliance throughout. The project aims to reduce procurement cycle time by 30%, improve supplier relationship management, and enhance data accuracy in procurement records. This will be achieved through the development and implementation of an integrated software solution that automates key procurement activities, such as requisition approvals, purchase order management, and vendor performance tracking. Additionally, the project will introduce a standardized procurement policy to ensure consistency across all departments.
+
+**Timeline:**
+The project is expected to span six months, divided into the following phases:
+- **Phase 1: Requirements Gathering (Weeks 1-4)** – Conduct interviews and surveys with key stakeholders to identify pain points in the current procurement process and gather software requirements.
+- **Phase 2: Software Development (Weeks 5-14)** – Collaborate with the IT department to design and develop the procurement software prototype based on gathered requirements.
+- **Phase 3: Testing and Feedback (Weeks 15-20)** – Implement user testing sessions with selected end-users to gather feedback for improvements, followed by necessary revisions to the software.
+- **Phase 4: Training and Roll-out (Weeks 21-24)** – Develop training materials and conduct workshops for end-users, followed by the official launch of the software solution across the organization.
+
+**Budget Range:**
+The estimated budget for the Procurement Workflow Optimization Initiative is between £75,000 and £100,000. This budget will cover software development costs, including hiring external consultants if necessary, expenses related to training materials, and any additional resources required for implementation.
+
+**Team Composition:**
+The project team will consist of the following members:
+- **Project Manager (1)**: Responsible for overall project coordination, timeline management, and stakeholder communication.
+- **Procurement Analysts (2)**: Conduct requirements gathering and provide insights based on current procurement processes.
+- **Software Developers (2)**: Develop the procurement software in collaboration with the IT department.
+- **IT Support Specialist (1)**: Assist in integrating the new software with existing systems and provide technical support during roll-out.
+- **Training Coordinator (1)**: Design and implement training programs for staff to ensure smooth transitions to the new system.
+
+By executing this initiative, Meridian Analytics Ltd. aims to foster a more efficient procurement environment, ultimately leading to cost savings and improved supplier relationships.

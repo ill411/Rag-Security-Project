@@ -1,0 +1,27 @@
+**MERIDIAN ANALYTICS LTD.**  
+**Internal Policy Memo**  
+**Policy Reference Number: POL-8109-009**  
+
+**Issuing Department:** Finance  
+**Effective Date:** October 30, 2023  
+
+---
+
+**Subject: Client Data Access Policy**  
+
+This memorandum outlines the policy regarding access to client data by employees within the Finance Department of Meridian Analytics Ltd. This policy is established to ensure the integrity, confidentiality, and security of client information while facilitating necessary access for authorized personnel involved in financial analysis and reporting.
+
+Access to client data will be strictly limited to those employees whose roles necessitate such access for the purposes of financial management and analysis. Employees will be classified into various access levels based on their roles and responsibilities. Each employee's access shall be granted through a formal approval process involving their direct supervisor and the Data Governance Officer. Access requests must be documented, detailing the specific data needed, the reason for access, and the duration of access required.
+
+It is imperative that any employee granted access to client data adheres to the highest standards of confidentiality. Employees must refrain from sharing client data with unauthorized personnel, both within and outside the organization. Any unauthorized disclosure of client information, whether intentional or accidental, will result in disciplinary action, up to and including termination of employment. Regular training sessions on data protection protocols will be provided to all Finance personnel to ensure compliance with this policy.
+
+In addition, all employees are required to report any suspicious activity related to client data access immediately to their supervisor and the Data Governance Officer. Regular audits of data access logs will be conducted to ensure adherence to this policy and to identify any potential security risks. Any observed violations will be addressed promptly to mitigate risks and protect client information.
+
+This policy will be reviewed annually and updated as necessary to remain in compliance with legal regulations and to incorporate best practices in data security. All employees are expected to familiarize themselves with the contents of this policy and to apply its principles diligently in their day-to-day operations. 
+
+For further information, please contact the Finance Department or the Data Governance Officer.
+
+**Sincerely,**  
+[Your Name]  
+[Your Position]  
+Meridian Analytics Ltd.

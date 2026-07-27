@@ -1,0 +1,19 @@
+**Employee Record: Meridian Analytics Ltd.**
+
+**Employee ID:** EMP-42466  
+**Name:** Alex O'Brien  
+**Department:** Legal  
+**Role:** Legal Analyst  
+**Tenure:** 3 years  
+**Salary Band:** Band 4 (Annual Salary: $70,000 - $85,000)  
+**Leave Balance:** 12 days remaining (Annual leave entitlement: 20 days)  
+**Performance Note:** Alex has consistently demonstrated a strong understanding of legal frameworks and compliance requirements relevant to the analytics industry. Over the past year, Alex has taken on additional responsibilities, including leading internal audits and contributing to the development of compliance training materials for teams across the company.
+
+**Additional Comments:**  
+During the last performance review, Alex received positive feedback regarding their analytical skills and attention to detail. They delivered critical insights during the recent contract negotiation processes, which resulted in favorable terms for Meridian Analytics Ltd. Alex has also shown an ability to work collaboratively within a team and has been proactive in seeking professional development opportunities, including attending workshops on regulatory changes impacting the analytics sector.
+
+Moving forward, it is recommended that Alex continue to enhance their knowledge in emerging legal technologies, as this could further benefit their role within the Legal department. Potential opportunities for leadership training should also be explored to prepare Alex for future advancement within the company.
+
+**Next Performance Review Date:** March 2024  
+**HR Manager Signature:** [Signed]  
+**Date:** October 12, 2023

@@ -1,0 +1,27 @@
+**Internal Policy Memo**
+
+**Policy Reference No:** POL-1203-000  
+**Issuing Department:** IT Security  
+**Effective Date:** October 16, 2023  
+
+**Subject: Business Travel Security Policy**
+
+To all employees of Meridian Analytics Ltd.,
+
+In light of increasing concerns regarding data security and personal safety during business travel, the IT Security Department has established the following Business Travel Security Policy. This policy aims to ensure the protection of sensitive company information and the well-being of our employees while traveling for work-related purposes.
+
+All employees who are required to travel for business must adhere to the following guidelines. First and foremost, it is imperative that any devices containing corporate data, such as laptops and mobile phones, are equipped with the latest security software and encryption. Prior to departure, employees must update all software and operating systems to the most current versions available. Furthermore, users should enable multi-factor authentication for all accounts accessed during business travel to protect against unauthorized access.
+
+While traveling, employees must exercise caution when using public Wi-Fi networks. It is essential to avoid accessing company data or sensitive information when connected to unsecured networks. For increased security, employees are encouraged to use a Virtual Private Network (VPN) whenever possible. Additionally, any physical documents containing sensitive information should be minimized, secured in travel cases, and managed according to the company’s document disposal and data retention policies.
+
+In the event of loss or theft of any company devices or sensitive information while traveling, employees are required to report the incident to the IT Security Department immediately. This should be followed by documentation of the incident and any possible breaches that may have occurred as a result. Employees should also be cautious and aware of their surroundings, as personal safety is as important as protecting corporate data.
+
+Your cooperation in adhering to this policy is critical in fostering a secure working environment for all employees at Meridian Analytics Ltd. Please direct any questions or concerns regarding this policy to the IT Security Department at it-security@meridiananalytics.com.
+
+Thank you for your attention and commitment to maintaining our security standards during business travel.
+
+Best Regards,  
+[Your Name]  
+[Your Position]  
+IT Security Department  
+Meridian Analytics Ltd.

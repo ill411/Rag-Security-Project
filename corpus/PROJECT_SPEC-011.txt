@@ -1,0 +1,32 @@
+**Project Specification Document**  
+**Project Code:** PROJ-Pioneer-010  
+**Project Title:** Employee Engagement Enhancement Initiative  
+**Owned by:** People Operations Team  
+**Version:** 1.0  
+**Date:** October 5, 2023  
+
+**Objectives:**  
+The primary objective of the Employee Engagement Enhancement Initiative is to develop and implement a comprehensive digital platform aimed at improving employee engagement and satisfaction across Meridian Analytics Ltd. This project seeks to provide employees with interactive tools for feedback, recognition, and professional development, thereby fostering a more cohesive and motivated workforce. Key goals include:  
+1. **Develop a Feedback Tool:** Create a user-friendly interface for employees to provide anonymous feedback on various aspects of their workplace experience.  
+2. **Recognition System:** Implement a system to allow peer-to-peer recognition, enabling employees to acknowledge and appreciate the contributions of their colleagues.  
+3. **Professional Development Portal:** Launch a portal that curates personal development resources, career growth opportunities, and mentorship programs tailored to employee aspirations.  
+4. **Performance Metrics:** Establish baseline metrics for employee engagement and measure improvements quarterly post-implementation.
+
+**Timeline:**  
+The project is scheduled to unfold over a six-month period, commencing on November 1, 2023, and concluding on April 30, 2024. Key phases include:  
+- **Phase 1 - Research and Design (November 2023 - January 2024):** Conduct focus groups, analyze current engagement levels, finalize user requirements, and design the platform architecture.  
+- **Phase 2 - Development (February 2024 - March 2024):** Build the digital platform, ensuring seamless integration with existing HR systems and data security measures.  
+- **Phase 3 - Testing (Mid-March 2024):** Perform user acceptance testing (UAT) with a pilot group of employees to gather feedback and make necessary adjustments.  
+- **Phase 4 - Launch (Late April 2024):** Officially launch the platform company-wide and begin monitoring engagement metrics.
+
+**Budget Range:**  
+The estimated budget for this project is between £150,000 to £200,000. This includes costs for software development, user testing, employee training sessions, and promotional materials associated with the platform launch. Additional funding may be allocated depending on unforeseen technical requirements or enhancements.
+
+**Team Composition:**  
+The project will be led by the People Operations team, supported by the following members:  
+- **Project Manager (1)** – Overseeing project timelines, resource allocation, and team coordination.  
+- **HR Business Partner (1)** – Providing insights into employee needs and engagement strategies.  
+- **Software Developer (2)** – Responsible for technical development and platform construction.  
+- **UI/UX Designer (1)** – Ensuring the platform is user-friendly and visually appealing.  
+- **Data Analyst (1)** – Establishing metrics for analysis, assessing engagement levels pre- and post-launch.  
+- **

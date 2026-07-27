@@ -1,0 +1,25 @@
+**Employee Record**
+
+**Employee ID:** EMP-69910  
+**Employee Name:** Tom Walsh  
+**Department:** People Operations   
+**Role:** HR Coordinator  
+**Tenure:** 3 years (Started on October 15, 2020)  
+**Salary Band:** Band C (Annual salary range: $55,000 - $70,000)  
+**Current Salary:** $62,500  
+
+**Leave Balance:**  
+- Annual Leave: 12 days (remaining)  
+- Sick Leave: 5 days (remaining)  
+- Personal Leave: 3 days (remaining)  
+
+**Performance Note:**  
+Tom has consistently demonstrated a strong commitment to his role as HR Coordinator at Meridian Analytics Ltd. Over the past year, he has successfully managed the onboarding process for new hires, contributing to a streamlined and efficient integration experience. His attention to detail and organizational skills have led to a noticeable improvement in employee satisfaction during onboarding surveys.
+
+In addition to his onboarding responsibilities, Tom has taken the initiative to develop a new employee engagement program that focuses on enhancing workplace culture and employee retention. This program was well-received during a recent pilot amongst select departments, with feedback indicating increased team cohesion and morale.
+
+Tom's ability to collaborate effectively with his colleagues and his approachable demeanor have earned him respect within the People Operations team and across the company. His willingness to assist team members and share knowledge contributes to a positive workplace environment.
+
+As part of his professional development, Tom has expressed interest in pursuing additional certifications in HR management, which aligns with the company’s objectives for ongoing employee growth and development. His manager has recommended support for this initiative, recognizing Tom's potential for future advancement within the organization.
+
+Overall, Tom is a valuable asset to the People Operations department and is well-regarded by both peers and leadership.

@@ -1,0 +1,23 @@
+**Employee Record**
+
+**Employee ID:** EMP-94286  
+**Name:** Sade Byrne  
+**Department:** Engineering  
+**Role:** Software Engineer  
+**Tenure:** 3 years  
+**Salary Band:** Level 6  
+
+**Leave Balance:**  
+- Annual Leave: 15 days  
+- Sick Leave: 5 days  
+
+**Performance Note:**  
+Sade Byrne has consistently demonstrated a high level of technical expertise and problem-solving abilities in her role as a Software Engineer at Meridian Analytics Ltd. Over the past three years, she has been integral to the successful completion of several key projects, including the recent migration of our data analytics platform to a cloud-based solution, which enhanced system performance by 20%. 
+
+Sade is known for her collaborative spirit, often taking the lead in team brainstorming sessions and mentoring junior engineers. Her ability to communicate complex technical concepts in a simplified manner has been beneficial in cross-departmental projects, fostering a collaborative environment. 
+
+During the latest performance evaluation period, Sade exceeded expectations in goal attainment, especially in her project deliverables. Her creative approach to coding and commitment to continuous improvement have earned her recognition within the team and among management.
+
+While Sade has maintained a strong performance record, it is recommended that she explore opportunities for additional leadership training to prepare for potential future roles in team management. Continued professional development will aid her ongoing contributions to the Engineering department and align with her career aspirations.
+
+Overall, Sade is a valuable asset to Meridian Analytics Ltd., and her proactive approach and dedication to the company's vision make her a key player in the Engineering team.

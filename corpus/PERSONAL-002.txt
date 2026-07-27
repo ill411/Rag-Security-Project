@@ -1,0 +1,25 @@
+**HR Record: Meridian Analytics Ltd.**
+
+**Employee ID:** EMP-21927  
+**Employee Name:** Daniel Garcia  
+**Department:** IT Security  
+**Role:** IT Security Analyst  
+**Tenure:** 3 years  
+**Salary Band:** Band D  
+
+**Leave Balance:**  
+- Annual Leave: 15 days  
+- Sick Leave: 8 days  
+- Unused Leave from Previous Year: 2 days  
+
+**Performance Notes:**  
+Daniel Garcia has demonstrated significant growth and expertise in his role as an IT Security Analyst over the past three years. His proactive approach towards identifying security vulnerabilities has contributed to the strengthening of Meridian Analytics Ltd.'s cybersecurity posture. He successfully completed the following key projects: a comprehensive risk assessment in Q2 2022 and the implementation of enhanced multi-factor authentication across the organization in Q1 2023, both of which have significantly mitigated potential security threats.
+
+In addition to his project contributions, Daniel has taken the initiative to organize training sessions for team members on the latest cybersecurity trends and best practices. His ability to communicate complex technical information in an accessible manner has positively impacted team dynamics and knowledge sharing within the department.
+
+Feedback from peers and supervisors indicates that Daniel is a reliable team player, showing a collaborative spirit and a strong commitment to meeting departmental goals. He consistently meets or exceeds performance expectations, earning him a reputation as a valuable asset to the IT Security team. 
+
+Suggestions for Daniel's continued growth include exploring certification opportunities in advanced cybersecurity frameworks and potential leadership training, as he demonstrates the potential for future roles in cybersecurity management.
+
+**Review Date:** October 2023  
+**Next Performance Review:** October 2024

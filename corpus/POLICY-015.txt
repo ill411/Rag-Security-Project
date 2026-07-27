@@ -1,0 +1,23 @@
+**Internal Memo**  
+**Policy Reference Number:** POL-3215-014  
+**Department:** Procurement  
+**Effective Date:** October 17, 2023  
+
+**Subject: Data Handling and Storage Policy**
+
+In light of recent developments in data protection and compliance standards, this memo serves to establish the official Data Handling and Storage Policy for Meridian Analytics Ltd. It is imperative that all employees involved in procurement adhere to the guidelines outlined herein to ensure the security and integrity of both company and client data.
+
+The primary objective of this policy is to standardize the procedures for data collection, storage, and sharing within the Procurement Department. All data, including but not limited to supplier information, purchase orders, and contracts, must be classified according to its sensitivity. Sensitive data must be stored in encrypted formats and accessible only to authorized personnel. Regular audits will be conducted to ensure compliance with these standards and to identify potential vulnerabilities in our data storage systems. 
+
+Procurement employees are required to utilize company-sanctioned platforms for data entry and management, prohibiting the use of personal devices or unauthorized cloud services for storing or sharing sensitive information. Any form of data transfer must employ secure methods, including but not limited to, encrypted email or secure file transfer protocols. Employees must be diligent in ensuring that any paper copies of sensitive information are securely locked away when not in use and shredded when no longer necessary.
+
+In addition to these measures, all employees must complete mandatory training on data protection and handling protocols within the first month of employment, followed by annual refresher courses. Non-compliance with this policy may result in disciplinary action and could jeopardize the integrity of company operations. It is the responsibility of each member of the Procurement Department to familiarize themselves with these guidelines and implement them diligently in their daily operations.
+
+For any inquiries or clarifications regarding this policy, employees are encouraged to reach out to the Procurement Policy Officer.
+
+Thank you for your cooperation in safeguarding our data and ensuring adherence to these critical standards.
+
+Sincerely,  
+[Your Name]  
+[Your Title]  
+Meridian Analytics Ltd.

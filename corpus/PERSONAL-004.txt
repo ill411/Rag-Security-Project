@@ -1,0 +1,22 @@
+**Employee Record**
+
+**Employee ID:** EMP-69675  
+**Name:** Mei Tanaka  
+**Department:** People Operations  
+**Role:** HR Specialist  
+**Tenure:** 3 years  
+**Salary Band:** Band 3  
+
+**Leave Balance:**  
+- Annual Leave: 15 days remaining  
+- Sick Leave: 10 days remaining  
+- Personal Leave: 5 days remaining  
+
+**Performance Note:**  
+Mei Tanaka has consistently demonstrated strong performance in her role as an HR Specialist over the past three years at Meridian Analytics Ltd. She has excelled in recruitment processes, showcasing an ability to attract and retain top talent for the organization. Mei has effectively implemented innovative onboarding programs which have significantly improved new hire integration and engagement. 
+
+Through her active participation in employee development initiatives, she has contributed to an increase in employee satisfaction rates and has fostered a positive workplace culture. Mei has also taken the lead on various employee wellness programs, which have been well-received and have enhanced overall team morale.
+
+Her managerial skills are commendable; she has effectively collaborated with different departments to ensure alignment on HR strategies and has addressed employee concerns promptly and with sensitivity. Recent feedback from peers and supervisors highlights her approachability, communication skills, and problem-solving capabilities.
+
+Mei is encouraged to continue her professional development by pursuing further HR certifications, which will further enhance her expertise in strategic HR practices. Overall, her contributions have positively impacted the People Operations department and the broader organizational goals at Meridian Analytics Ltd.
