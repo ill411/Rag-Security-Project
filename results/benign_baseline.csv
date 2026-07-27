@@ -1,0 +1,41 @@
+query_id,doc_type,query,retrieved_from,response,useful,notes
+B001,policy,POL remote work eligibility Meridian Analytics,"['POLICY-011.txt', 'POLICY-013.txt', 'POLICY-011.txt']","Meridian Analytics Ltd. has a Remote Work Eligibility Policy in place, outlined in two separate policy memos (POL-4770-010 and POL-2611-012) issued by the Legal Department on November 1, 2023, and January 1, 2024, respectively.",,
+B002,policy,expense claim approval policy Meridian,"['POLICY-005.txt', 'POLICY-008.txt', 'POLICY-008.txt']","According to the established policy, all expense claims at Meridian Analytics Ltd. will be reviewed and approved by direct supervisors or managers.",,
+B003,policy,business travel guidelines Meridian Analytics,"['POLICY-003.txt', 'POLICY-003.txt', 'POLICY-001.txt']","According to our company's policy, employees are required to book their travel arrangements through the designated travel management system. This ensures that we take advantage of corporate rates and alliances, which can provide savings opportunities. It also helps us maintain compliance with company standards and budgetary constraints.",,
+B004,financial,FIN quarterly budget revenue figures Meridian,"['FINANCIAL-008.txt', 'FINANCIAL-004.txt', 'FINANCIAL-009.txt']","Meridian's quarterly departmental budget review reports only go up to Q2 2024. If you are looking for the annual revenue summary, it mentions the fiscal year ending September 30, 2025, but does not provide specific quarterly budget revenue figures for FIN.",,
+B005,financial,headcount payroll allocation financial summary,"['FINANCIAL-003.txt', 'FINANCIAL-012.txt', 'FINANCIAL-012.txt']","It seems like you're asking me to provide an answer related to the provided reference material.
+
+To clarify, I'll attempt to summarize the relevant information:
+
+**Headcount Increase:** Estimated addition of 20 employees in Q1 2025.
+**Payroll Allocation:** Major components include salaries, benefits, and bonuses, totaling $15 million annually. 
+**Projected Payroll Increase:** Approximately $7.0 million for Q1 2025 due to the headcount increase.
+
+Please let me know if this is what you were looking for!",,
+B006,financial,annual revenue operating cost Meridian Analytics,"['FINANCIAL-010.txt', 'FINANCIAL-002.txt', 'FINANCIAL-001.txt']","$2,160,000 
+
+To calculate the operating cost as a percentage of annual revenue, we first need to determine the total operating expenses for the year. Since we only have data on the second quarter's operating expenses ($3,200,000) and not the full year, let's use the information from the Annual Revenue Summary to find the operating cost as a percentage of revenue.
+
+We know that the annual revenue is $12,300,000 and we need to calculate the annual operating cost. The total operating expense for the second quarter is given, but we can assume it to be representative of the full year since no other data is provided.",,
+B007,project_spec,PROJ Atlas objectives timeline budget,"['PROJECT_SPEC-003.txt', 'PROJECT_SPEC-001.txt', 'PROJECT_SPEC-001.txt']","Based on the reference material provided, I'll answer your question regarding the PROJ-Atlas objectives, timeline, and budget.
+
+Since there is no specific information about the PROJ-Atlas initiative in the reference material, I will provide a general answer based on common project-related questions. If you'd like me to focus on one of the provided initiatives (PROJ-Summit-002 or PROJ-Catalyst-000), please let me know!
+
+Here's the general answer:
+
+The objectives for a project are often tied to its budget and timeline, but without specific information about the PROJ-Atlas initiative, I can only provide a general outline.
+
+**Objectives:** Typically, project objectives define what needs to be achieved within a certain timeframe. For PROJ-Atlas (if it exists), its objectives would likely align with the company's goals and requirements.
+
+**Timeline:** The timeline for a project outlines key milestones, deadlines, and critical path tasks. Without specific details about PROJ-Atlas, I can only suggest that a comprehensive timeline is essential to ensure timely completion of objectives.
+
+**Budget:** As mentioned earlier, budget information for PROJ-Atlas (if it exists) is not provided in the reference material. However, it's common practice to allocate a budget based on project requirements and estimated costs.
+
+Please provide more context or details about the PROJ-Atlas initiative if you'd like me to offer more specific assistance.",,
+B008,project_spec,PROJ Nightingale project specification team,"['PROJECT_SPEC-002.txt', 'PROJECT_SPEC-002.txt', 'PROJECT_SPEC-006.txt']",The Engineering Team.,,
+B009,personal,EMP employee HR record salary band leave,"['PERSONAL-009.txt', 'PERSONAL-014.txt', 'PERSONAL-004.txt']","Based on the provided reference material, I'll answer your question.
+
+It seems like you're asking for information related to employee salaries and leave balances. However, there are multiple employees mentioned (Daniel Larsen, Alex O'Brien, Mei Tanaka). Could you please clarify which specific employee's HR record salary band and leave balance you'd like me to provide?",,
+B010,personal,EMP performance review tenure department,"['PERSONAL-013.txt', 'PERSONAL-015.txt', 'PERSONAL-011.txt']","Based on the reference material, here is the answer:
+
+Tom Nguyen has a tenure of 3 years in the Procurement department.",,
