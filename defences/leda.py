@@ -91,7 +91,7 @@ ANSWER:"""
 # Addresses decoding-stage leakage identified by Zhou et al. (2025)
 # ================================================================
 
-OVERLAP_THRESHOLD = 7  # consecutive words that trigger a block
+OVERLAP_THRESHOLD = 12  # consecutive words that trigger a block
 
 def check_output(response: str, chunks: list) -> tuple[bool, str]:
     """
