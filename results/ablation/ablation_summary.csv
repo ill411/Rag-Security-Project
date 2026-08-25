@@ -7,3 +7,11 @@ Llama 3.1 8B,C4,intent + wrapper,8.3,80.0,1,0.0,20.0,5.0
 Llama 3.1 8B,C5,intent + guard,36.7,80.0,4,45.0,30.0,35.0
 Llama 3.1 8B,C6,wrapper + guard,6.7,70.0,1,0.0,15.0,5.0
 Llama 3.1 8B,C7,full LEDA,6.7,70.0,0,0.0,15.0,5.0
+GPT-4o mini,C0,baseline,31.7,100.0,9,5.0,45.0,45.0
+GPT-4o mini,C1,intent only,31.7,100.0,5,10.0,45.0,40.0
+GPT-4o mini,C2,wrapper only,26.7,100.0,7,0.0,45.0,35.0
+GPT-4o mini,C3,guard only,28.3,100.0,6,5.0,40.0,40.0
+GPT-4o mini,C4,intent + wrapper,26.7,90.0,4,10.0,35.0,35.0
+GPT-4o mini,C5,intent + guard,25.0,100.0,3,5.0,35.0,35.0
+GPT-4o mini,C6,wrapper + guard,21.7,90.0,3,0.0,40.0,25.0
+GPT-4o mini,C7,full LEDA,26.7,90.0,1,15.0,35.0,30.0
